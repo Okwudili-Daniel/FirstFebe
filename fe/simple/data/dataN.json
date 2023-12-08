@@ -1,0 +1,29 @@
+{
+    "message": "Created",
+    "data": [
+        {
+            "_id": "6551cc13c59f452ff80108b6",
+            "name": "5 * 2",
+            "image": "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/7811773/number-ten-clipart-xl.png",
+            "createdAt": "2023-11-13T07:11:15.511Z",
+            "updatedAt": "2023-11-13T07:11:15.511Z",
+            "__v": 0
+        },
+        {
+            "_id": "6551ce58c59f452ff80108b8",
+            "name": "4 + 3",
+            "image": "https://cdn.pixabay.com/photo/2020/01/01/09/45/seven-4733221_640.png",
+            "createdAt": "2023-11-13T07:20:56.955Z",
+            "updatedAt": "2023-11-13T07:20:56.955Z",
+            "__v": 0
+        },
+        {
+            "_id": "6551ceb3c59f452ff80108ba",
+            "name": "5 * 5",
+            "image": "https://cdn-icons-png.flaticon.com/512/7233/7233110.png",
+            "createdAt": "2023-11-13T07:22:27.553Z",
+            "updatedAt": "2023-11-13T07:22:27.553Z",
+            "__v": 0
+        }
+    ]
+}

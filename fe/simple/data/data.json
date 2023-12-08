@@ -1,0 +1,37 @@
+{
+    "message": "Created",
+    "data": [
+        {
+            "_id": "65515ad087e6b1dd0e5cb73b",
+            "name": "Ball",
+            "image": "https://www.badensports.com/cdn/shop/products/SMA-01_2000x.jpg?v=16294…",
+            "createdAt": "2023-11-12T23:08:00.573Z",
+            "updatedAt": "2023-11-12T23:08:00.573Z",
+            "__v": 0
+        },
+        {
+            "_id": "655173f80fdcbe4d23ee02fd",
+            "name": "Dog",
+            "image": "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg",
+            "createdAt": "2023-11-13T00:55:20.526Z",
+            "updatedAt": "2023-11-13T00:55:20.526Z",
+            "__v": 0
+        },
+        {
+            "_id": "6551745b0fdcbe4d23ee0303",
+            "name": "Apple",
+            "image": "https://www.organichaive.com.ng/wp-content/uploads/2017/01/apple_red-350x350.jpg",
+            "createdAt": "2023-11-13T00:56:59.964Z",
+            "updatedAt": "2023-11-13T00:56:59.964Z",
+            "__v": 0
+        },
+        {
+            "_id": "655174cb0fdcbe4d23ee0309",
+            "name": "Cat",
+            "image": "https://images.unsplash.com/photo-1615789591457-74a63395c990?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFieSUyMGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+            "createdAt": "2023-11-13T00:58:51.805Z",
+            "updatedAt": "2023-11-13T00:58:51.805Z",
+            "__v": 0
+        }
+    ]
+}

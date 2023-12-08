@@ -1,0 +1,37 @@
+{
+    "message": "Created",
+    "data": [
+        {
+            "_id": "6551c80e0fdcbe4d23ee0375",
+            "name": "Triangle",
+            "image": "https://img.freepik.com/free-vector/yellow-triangle-geometric-shape-vector_53876-175072.jpg?w=2000",
+            "createdAt": "2023-11-13T06:54:06.065Z",
+            "updatedAt": "2023-11-13T06:54:06.065Z",
+            "__v": 0
+        },
+        {
+            "_id": "6551c8580fdcbe4d23ee0377",
+            "name": "Cicle",
+            "image": "https://www.pngall.com/wp-content/uploads/13/Red-Circle.png",
+            "createdAt": "2023-11-13T06:55:20.275Z",
+            "updatedAt": "2023-11-13T06:55:20.275Z",
+            "__v": 0
+        },
+        {
+            "_id": "6551c8c20fdcbe4d23ee0379",
+            "name": "Oval",
+            "image": "https://as1.ftcdn.net/v2/jpg/02/68/13/48/1000_F_268134845_6QrYZ9RlHO6AVOhGpaXNGJzjfACv0PCx.jpg",
+            "createdAt": "2023-11-13T06:57:06.562Z",
+            "updatedAt": "2023-11-13T06:57:06.562Z",
+            "__v": 0
+        },
+        {
+            "_id": "6551c91b0fdcbe4d23ee037c",
+            "name": "RectaRectangle",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Blue_rectangle.png?20080428171434",
+            "createdAt": "2023-11-13T06:58:35.055Z",
+            "updatedAt": "2023-11-13T06:58:35.055Z",
+            "__v": 0
+        }
+    ]
+}
